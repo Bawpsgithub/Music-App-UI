@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import { Link, NavLink } from "react-router-dom"
 import { navBar } from "../assets/data/data"
 import logo from "../assets/images/logo.png"
-import profile from "../assets/images/b4.jpg"
+import profile from "../assets/images/b4.png"
 import { AiOutlineMenu, AiOutlineSearch } from "react-icons/ai"
 
 export const Header = () => {
@@ -18,7 +18,7 @@ export const Header = () => {
           <div>
             <img src={logo} alt='logo' width='40px' height='40px' />
           </div>
-          <h2 className='text-2xl font-semibold ml-3'>pluse</h2>
+          <h2 className='text-2xl font-semibold ml-3'>That Song</h2>
         </div>
 
         {/* navlinks  */}
@@ -50,7 +50,7 @@ export const Header = () => {
             <div>
               <img src={logo} alt='logo' width='40px' height='40px' />
             </div>
-            <h2 className='text-2xl font-semibold ml-3'>pluse</h2>
+            <h2 className='text-2xl font-semibold ml-3'>That Song</h2>
           </div>
         </Link>
 

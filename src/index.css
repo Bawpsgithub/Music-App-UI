@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .active {
-  color: #02b875;
+  color: #1e72f6;
   transition: 0.5s ease-in-out;
 }
 .hero .overlay {

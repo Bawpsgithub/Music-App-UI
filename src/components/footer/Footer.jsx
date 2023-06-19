@@ -1,5 +1,5 @@
 import React from "react"
-import img from "../assets/images/b4.jpg"
+import img from "../assets/images/b4.png"
 import { AiOutlineHeart, AiOutlineMenu } from "react-icons/ai"
 import { BiSkipNext, BiSkipPrevious } from "react-icons/bi"
 import { BsPlayCircleFill } from "react-icons/bs"
