@@ -23,35 +23,35 @@ export const navBar = [
 export const hero1 = [
   {
     id: 1,
-    name: "New Album from Nouvelle",
-    tag: "Nouvelle",
+    name: "New Album from DUA",
+    tag: "DUA",
     cover: "../images/c1.jpg",
   },
   {
     id: 2,
-    name: "Bind Me",
-    tag: "Fifty",
+    name: "New Track",
+    tag: "DRIFT",
     cover: "../images/c2.jpg",
   },
   {
     id: 3,
-    name: "New Track from Pablo Nouvelle",
-    tag: "Pablo Nouvelle",
-    cover: "../images/c3.jpg",
+    name: "New Track from HUY NGO",
+    tag: "ManUTD",
+    cover: "../images/b1.jpg",
   },
 ]
 export const hero2 = [
   {
     id: 1,
-    name: "Pull Up",
-    tag: "Summerella",
+    name: "Thich Hoi Nhieu Em",
+    tag: "DUA ft  HOANG RIM",
     cover: "../images/b4.jpg",
   },
   {
     id: 2,
-    name: "Fireworks",
-    tag: "Kygo",
-    cover: "../images/b1.jpg",
+    name: "HUONG",
+    tag: "DUA ft  HOANG RIM",
+    cover: "../images/c3.jpg",
   },
   {
     id: 3,
